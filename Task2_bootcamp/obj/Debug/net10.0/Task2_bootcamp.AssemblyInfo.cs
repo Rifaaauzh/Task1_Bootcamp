@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2_bootcamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2915d4f0e01e74a9a7c7ae876e73bf4aed10860f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeef7d58558fe586865542714ea81f31ec1104a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2_bootcamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2_bootcamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
