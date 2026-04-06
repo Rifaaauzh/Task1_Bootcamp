@@ -1,0 +1,15 @@
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.AssemblyInfoInputs.cache
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.AssemblyInfo.cs
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.sourcelink.json
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\bin\Debug\net10.0\Task2_bootcamp.exe
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\bin\Debug\net10.0\Task2_bootcamp.deps.json
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\bin\Debug\net10.0\Task2_bootcamp.runtimeconfig.json
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\bin\Debug\net10.0\Task2_bootcamp.dll
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\bin\Debug\net10.0\Task2_bootcamp.pdb
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.dll
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\refint\Task2_bootcamp.dll
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.pdb
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\Task2_bootcamp.genruntimeconfig.cache
+C:\Users\Rifa\Documents\Bootcamp C# Basics\Task1\Task2_bootcamp\obj\Debug\net10.0\ref\Task2_bootcamp.dll

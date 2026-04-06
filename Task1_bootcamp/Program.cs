@@ -6,18 +6,18 @@ for (int i = 1; i <= userInput; i++)
 {
     if (i % 3 == 0)
     {
-        Console.WriteLine("foo");
+        Console.Write("foo,");
     }
     else if (i % 5 == 0)
     {
-        Console.WriteLine("bar");
+        Console.Write("bar,");
     }
     if (i % 3 == 0 && i % 5 == 0 )
     {
-        Console.WriteLine("foobar");
+        Console.Write("foobar,");
     }
     else
     {
-        Console.WriteLine(i);
+        Console.Write( i + ",");
     }
 }
